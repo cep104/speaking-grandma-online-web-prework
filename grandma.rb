@@ -1,4 +1,3 @@
-speak_to_grandma 
 
 if speak_to_grandma == .uppercase
   puts "NO, NOT SINCE 1938!"

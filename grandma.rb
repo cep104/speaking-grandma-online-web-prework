@@ -1,6 +1,6 @@
 
 def speak_to_grandma(talk)
-  if talk == 
+  if talk == talk.upcase
   puts "NO, NOT SINCE 1938!"
   
 elsif talk == "I LOVE YOU GRANDMA!"

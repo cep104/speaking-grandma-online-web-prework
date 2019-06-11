@@ -3,7 +3,7 @@ def speak_to_grandma(talk)
 if speak_to_grandma == talk.uppercase
   puts "NO, NOT SINCE 1938!"
   
-elsif talk == "I LOVE YOU GRANDMA!"
+elsif speak_to_grandma == talk =="I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
   
 else
